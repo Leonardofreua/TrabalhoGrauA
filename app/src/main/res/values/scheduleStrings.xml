@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="customer">Cliente</string>
+    <string name="select">Selecione</string>
+    <string name="scheduleDateAndTime">Data e hora da Consulta</string>
+    <string name="description">Descrição</string>
+</resources>

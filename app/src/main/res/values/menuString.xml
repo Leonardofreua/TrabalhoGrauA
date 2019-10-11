@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="schedulesList">Consultas</string>
+    <string name="addSchedule">Cadastrar Consulta</string>
+    <string name="customerList">Clientes</string>
+    <string name="addCustomer">Cadastrar Cliente</string>
+</resources>

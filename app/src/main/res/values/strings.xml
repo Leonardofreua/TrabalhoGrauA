@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TrabalhoGrauA</string>
+    <string name="add">Cadastrar</string>
+    <string name="update">Alterar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="back">Voltar</string>
+</resources>

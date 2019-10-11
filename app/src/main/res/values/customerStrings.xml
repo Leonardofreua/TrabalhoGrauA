@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name">Nome:</string>
+    <string name="email">E-mail:</string>
+    <string name="age">Idade:</string>
+    <string name="phone">Celular:</string>
+    <string name="address">Endereço:</string>
+    <string name="sex">Sexo:</string>
+    <string name="Masculino">Masculino</string>
+    <string name="Feminino">Feminino</string>
+</resources>
